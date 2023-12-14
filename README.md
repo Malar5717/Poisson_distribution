@@ -30,13 +30,13 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 poisson distribution:
-#### developed by: Malar Mariam S
+### developed by: Malar Mariam S
 ### ref no      :23005717
 
-##  f - frequency of x
-## sf - sum of frequency
-## pr - probability function for poisson distribution
-## xi - chi square test value
+####  f - frequency of x
+#### sf - sum of frequency
+#### pr - probability function for poisson distribution
+#### xi - chi square test value
 
 ![image](https://github.com/Malar5717/Poisson_distribution/assets/138849172/5aac96a0-642f-4074-9ca5-6890c02022cd)
 
