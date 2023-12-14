@@ -30,8 +30,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 poisson distribution:
-# developed by: Malar Mariam S
-## ref no      :23005717
+#### developed by: Malar Mariam S
+### ref no      :23005717
 
 ##  f - frequency of x
 ## sf - sum of frequency
